@@ -1,8 +1,6 @@
 #ifndef SLIDER_H
 #define SLIDER_H
 
-#pragma once
-
 #include <QWidget>
 #include <QSlider>
 #include <QLabel>
